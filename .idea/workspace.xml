@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c8adc6c-4c6d-4ae0-9dd6-fce55ca8ff31" name="Changes" comment="Clean up the code" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2V35zPszF1XdrDmL0HeZqjt5ltb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/liukangning/Downloads/DeepDenoisingGuide",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c8adc6c-4c6d-4ae0-9dd6-fce55ca8ff31" name="Changes" comment="" />
+      <created>1694052184754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694052184754</updated>
+      <workItem from="1694052185858" duration="14761000" />
+      <workItem from="1694839281344" duration="12818000" />
+      <workItem from="1695298003967" duration="8204000" />
+      <workItem from="1695346619437" duration="1188000" />
+      <workItem from="1696552715878" duration="1199000" />
+      <workItem from="1698719516869" duration="8043000" />
+      <workItem from="1700059189893" duration="241000" />
+      <workItem from="1701211368632" duration="11713000" />
+      <workItem from="1701350283534" duration="132000" />
+      <workItem from="1701461572380" duration="5783000" />
+      <workItem from="1701964273880" duration="5650000" />
+      <workItem from="1702418716444" duration="598000" />
+      <workItem from="1702923986374" duration="599000" />
+      <workItem from="1703079792293" duration="10000" />
+      <workItem from="1703169621625" duration="2487000" />
+      <workItem from="1703187125737" duration="5699000" />
+      <workItem from="1703194167034" duration="16000" />
+      <workItem from="1703194188259" duration="456000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1694060537745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694060537745</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1694061000066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694061000066</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Clean up the code">
+      <option name="closed" value="true" />
+      <created>1703191006427</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703191006427</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Clean up the code">
+      <option name="closed" value="true" />
+      <created>1703192007645</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703192007645</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Clean up the code">
+      <option name="closed" value="true" />
+      <created>1703192362151</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703192362151</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Clean up the code">
+      <option name="closed" value="true" />
+      <created>1703192499092</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703192499092</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Clean up the code">
+      <option name="closed" value="true" />
+      <created>1703192533339</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703192533339</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Clean up the code">
+      <option name="closed" value="true" />
+      <created>1703192801330</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703192801330</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Clean up the code">
+      <option name="closed" value="true" />
+      <created>1703192947656</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703192947656</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Clean up the code">
+      <option name="closed" value="true" />
+      <created>1703194405021</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703194405021</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/bias_free_denoising" />
+      <path value="$PROJECT_DIR$/electron-microscopy-denoising" />
+    </ignored-roots>
+    <MESSAGE value="update" />
+    <MESSAGE value="Clean up the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean up the code" />
+  </component>
+</project>
