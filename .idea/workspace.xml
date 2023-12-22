@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c8adc6c-4c6d-4ae0-9dd6-fce55ca8ff31" name="Changes" comment="Clean up the code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/electron-microscopy-denoising" beforeDir="false" afterPath="$PROJECT_DIR$/electron-microscopy-denoising" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,7 @@
       <workItem from="1703194167034" duration="16000" />
       <workItem from="1703194188259" duration="511000" />
       <workItem from="1703194707295" duration="3418000" />
-      <workItem from="1703260991199" duration="635000" />
+      <workItem from="1703260991199" duration="1057000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -172,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703194863841</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Clean up the code">
+      <option name="closed" value="true" />
+      <created>1703263498246</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1703263498246</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
