@@ -5,6 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c8adc6c-4c6d-4ae0-9dd6-fce55ca8ff31" name="Changes" comment="Clean up the code">
+      <change afterPath="$PROJECT_DIR$/pretrain_models/Microscopy/microscopy_noise2noise2.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pretrain_models/Microscopy/microscopy_supervised_continous.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pretrain_models/Microscopy/microscopy_supervised_fixed_noise.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pretrain_models/Natural_image/natural_image_net_supervised_continous.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pretrain_models/Natural_image/natural_image_net_supervised_fixed_noise.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pretrain_models/Natural_image/natural_image_noise2noise.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.microscopy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.microscopy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.natural_image.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.natural_image.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.piecewise_constant.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.piecewise_constant.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.gradient_microscopy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.gradient_microscopy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.gradient_natural_images.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.gradient_natural_images.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/electron-microscopy-denoising" beforeDir="false" afterPath="$PROJECT_DIR$/electron-microscopy-denoising" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +86,12 @@
       <workItem from="1703194167034" duration="16000" />
       <workItem from="1703194188259" duration="511000" />
       <workItem from="1703194707295" duration="3418000" />
-      <workItem from="1703260991199" duration="1057000" />
+      <workItem from="1703260991199" duration="4340000" />
+      <workItem from="1705848581105" duration="1915000" />
+      <workItem from="1705862073632" duration="462000" />
+      <workItem from="1705862907948" duration="77000" />
+      <workItem from="1705863057644" duration="16634000" />
+      <workItem from="1706540727835" duration="4445000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
