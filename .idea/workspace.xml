@@ -4,58 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c8adc6c-4c6d-4ae0-9dd6-fce55ca8ff31" name="Changes" comment="Add more detailed instruction">
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.idea/electron-microscopy-denoising.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.idea/jupyter-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/checkpoints/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/checkpoints/unet-128-small.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/black/test_evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/defect_white/test_evaluation_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/defect_white/test_evaluation_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/defect_white/test_evaluation_3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/defect_white/test_evaluation_4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/defect_white/test_evaluation_5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/intermediate_limited/test_evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/structure_white/test_evaluation_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/structure_white/test_evaluation_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/structure_white/test_evaluation_3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/structure_white/test_evaluation_4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/white_limited/test_evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models/BFBatchNorm2d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models/dncnn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models/durrunet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models/unet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models_microscopy/BFBatchNorm2d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models_microscopy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models_microscopy/dncnn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models_microscopy/durrunet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models_microscopy/unet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/denoising_in_patches.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/generalization.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/gradient.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/guided_backprop.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/likelihood_plots-Copy1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/likelihood_plots.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/nano_plot.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/surface_metrics_demo.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/utils/denoise_patches.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/utils/meters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/utils/metrics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/utils/progress_bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/utils/train_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/electron-microscopy-denoising" beforeDir="false" />
+    <list default="true" id="7c8adc6c-4c6d-4ae0-9dd6-fce55ca8ff31" name="Changes" comment="Convert submodule to a regular directory">
+      <change beforePath="$PROJECT_DIR$/bias_free_denoising" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +80,7 @@
       <workItem from="1705863057644" duration="16634000" />
       <workItem from="1706540727835" duration="9400000" />
       <workItem from="1707749277426" duration="2218000" />
-      <workItem from="1708180785217" duration="2178000" />
+      <workItem from="1708180785217" duration="2591000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -244,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706638009222</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Convert submodule to a regular directory">
+      <option name="closed" value="true" />
+      <created>1709325679096</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1709325679096</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,6 +239,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="Clean up the code" />
     <MESSAGE value="Add more detailed instruction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add more detailed instruction" />
+    <MESSAGE value="Convert submodule to a regular directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Convert submodule to a regular directory" />
   </component>
 </project>
