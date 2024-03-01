@@ -4,21 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c8adc6c-4c6d-4ae0-9dd6-fce55ca8ff31" name="Changes" comment="Clean up the code">
-      <change afterPath="$PROJECT_DIR$/pretrain_models/Microscopy/microscopy_noise2noise2.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pretrain_models/Microscopy/microscopy_supervised_continous.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pretrain_models/Microscopy/microscopy_supervised_fixed_noise.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pretrain_models/Natural_image/natural_image_net_supervised_continous.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pretrain_models/Natural_image/natural_image_net_supervised_fixed_noise.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pretrain_models/Natural_image/natural_image_noise2noise.pth" afterDir="false" />
+    <list default="true" id="7c8adc6c-4c6d-4ae0-9dd6-fce55ca8ff31" name="Changes" comment="Add more detailed instruction">
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.idea/electron-microscopy-denoising.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.idea/jupyter-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/checkpoints/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/checkpoints/unet-128-small.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/black/test_evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/defect_white/test_evaluation_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/defect_white/test_evaluation_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/defect_white/test_evaluation_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/defect_white/test_evaluation_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/defect_white/test_evaluation_5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/intermediate_limited/test_evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/structure_white/test_evaluation_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/structure_white/test_evaluation_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/structure_white/test_evaluation_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/structure_white/test_evaluation_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/experiments/white_limited/test_evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models/BFBatchNorm2d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models/dncnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models/durrunet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models/unet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models_microscopy/BFBatchNorm2d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models_microscopy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models_microscopy/dncnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models_microscopy/durrunet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/models_microscopy/unet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/denoising_in_patches.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/generalization.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/gradient.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/guided_backprop.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/likelihood_plots-Copy1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/likelihood_plots.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/nano_plot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/notebooks/surface_metrics_demo.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/utils/denoise_patches.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/utils/meters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/utils/metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/utils/progress_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-microscopy-denoising/utils/train_utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.microscopy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.microscopy.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.natural_image.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.natural_image.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.piecewise_constant.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.piecewise_constant.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.gradient_microscopy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.gradient_microscopy.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.gradient_natural_images.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.gradient_natural_images.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/electron-microscopy-denoising" beforeDir="false" afterPath="$PROJECT_DIR$/electron-microscopy-denoising" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/electron-microscopy-denoising" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +128,9 @@
       <workItem from="1705862073632" duration="462000" />
       <workItem from="1705862907948" duration="77000" />
       <workItem from="1705863057644" duration="16634000" />
-      <workItem from="1706540727835" duration="4445000" />
+      <workItem from="1706540727835" duration="9400000" />
+      <workItem from="1707749277426" duration="2218000" />
+      <workItem from="1708180785217" duration="2178000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -197,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703263498246</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add more detailed instruction">
+      <option name="closed" value="true" />
+      <created>1706638009222</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706638009222</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +280,7 @@
     </ignored-roots>
     <MESSAGE value="update" />
     <MESSAGE value="Clean up the code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clean up the code" />
+    <MESSAGE value="Add more detailed instruction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add more detailed instruction" />
   </component>
 </project>
