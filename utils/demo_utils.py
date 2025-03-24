@@ -42,7 +42,7 @@ def add_noise2(all_patches, noise_level, mode='B'):
 
 
 def load_model(checkpoint_path):
-    state_dict = torch.load(checkpoint_path, map_location=lambda s, l: default_restore_location(s, "cpu"))
+    state_dict = torch.load(checkpoint_path, map_location=lambda s, l: default_restore_location(s, "cpu"), weights_only=False)
     args = argparse.Namespace(**{ **vars(state_dict["args"]), "no_log": True})
 
     model = models.build_model(args).to(device)
