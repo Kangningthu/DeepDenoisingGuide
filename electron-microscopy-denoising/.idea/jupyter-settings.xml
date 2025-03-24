@@ -14,6 +14,17 @@
     </option>
     <option name="moduleParameters">
       <map>
+        <entry key="$PROJECT_DIR$/../../../GLAM_for_Inference/.idea/GLAM_for_Inference.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="urlString" value="http://localhost:8890/notebooks/demo_notebook.ipynb" />
+              <authParams2>
+                <map />
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../GLAM_for_Inference/.idea/GLAM_for_Inference.iml">
           <value>
             <JupyterConnectionParameters>
