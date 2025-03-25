@@ -10,7 +10,7 @@ This tutorial provides a self-contained description of deep-learning methodology
 ## Contents
 
 
-The notebooks of the tutorial are provided in [Notebooks](Notebooks) 
+The notebooks of the tutorial are provided in [Notebooks](notebooks) 
 
 <!-- 1. **Train and inference code for natural images denoising** [1.natural_image.ipynb](1.natural_image.ipynb)
 2. **Train and inference code for piecewise constant denoising** [1.piecewise_constant.ipynb](1.piecewise_constant.ipynb)
